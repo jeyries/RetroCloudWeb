@@ -1,4 +1,6 @@
-# Privacy Policy
+---
+title: Privacy Policy
+---
 
 ## Introduction
 At Retro Cloud, your privacy is our priority. This policy outlines how we handle your information.
